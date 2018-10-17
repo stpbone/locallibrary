@@ -1,0 +1,15 @@
+.sidebar-nav {
+    margin-top: 20px;
+    padding: 0;
+    list-style: none;
+    background-color: rgb(255, 217, 0);
+}
+
+.header {
+    background-color: aqua;
+    padding: 0;
+}
+
+.dynamic {
+    background-color: rgb(181, 130, 228);
+}
